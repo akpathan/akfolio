@@ -1,12 +1,19 @@
-# React + Vite
+# AKfolio — Shopify Frontend Developer & UI/UX Designer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **AKfolio**, my personal portfolio website showcasing projects, skills, and experience as a **Shopify Frontend Developer** and **UI/UX Designer**. From designing modern user interfaces in Figma to building custom Shopify themes, this portfolio reflects my end-to-end workflow — design, development, and user experience.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hi, I'm **[Your Name]**, a passionate frontend developer specializing in **Shopify theme development** and **UI/UX design**. I love turning ideas into intuitive, high-performing digital experiences for ecommerce and beyond.
 
-## Expanding the ESLint configuration
+- 💻 Shopify Theme Development (Liquid, HTML, CSS, JS)
+- 🎨 UI/UX Design (Figma, wireframes, responsive design)
+- 🛍 Ecommerce-focused interfaces
+- 🧠 Clean code + design thinking
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+| Design Tools    | Development Stack         | Other Tools          |
+| --------------- | ------------------------- | -------------------- |
+| Figma, Adobe XD | HTML, SCSS, Liquid, JS    | Git, GitHub, VS Code |
+| Photoshop       | Tailwind CSS, Shopify CLI | Theme Kit            |
