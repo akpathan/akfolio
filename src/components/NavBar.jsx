@@ -20,7 +20,7 @@ export const NavBar = ({ menuOpen, setMenuOpen }) => {
           </a>
 
           <div
-            className="w-7 h-5 relative cursor-pointer z-40 md:hidden"
+            className="text-2xl relative cursor-pointer z-40 md:hidden"
             onClick={() => setMenuOpen((prev) => !prev)}
           >
             &#9776;
