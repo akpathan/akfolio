@@ -32,7 +32,7 @@ export const Contact = () => {
       onSubmit={handleSubmit}
     >
       <RevealOnScroll>
-        <div className="px4 w-150">
+        <div className="px-4 w-full">
           <h2 className="text-3xl font-bold mb-8 text-center text-blue-500">
             Get In Touch
           </h2>
